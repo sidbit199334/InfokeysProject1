@@ -1,0 +1,4 @@
+com\infokeys\project1\dao\ApplicantDao.class
+com\infokeys\project1\controller\RegisterApplicant.class
+com\infokeys\project1\model\Applicant.class
+com\infokeys\project1\services\ApplicantServices.class
